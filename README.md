@@ -1,2 +1,2 @@
-# calaterminal
+# Calaterminal
 iTerm2 Profile
